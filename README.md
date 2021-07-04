@@ -1,4 +1,4 @@
-<h3 align="center">Another deep learning enthusiast, with a pinch of competitive programming.</h3>
+<h3 align="center">Another deep learning enthusiast, and part time competitive programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayishere&label=Profile%20views&color=0e75b6&style=flat" alt="abhayishere" /> </p>
 
