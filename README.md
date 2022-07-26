@@ -3,15 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayishere&label=Profile%20views&color=0e75b6&style=flat" alt="abhayishere" /> </p>
 
 
-
-- 🔭 I’m currently working on **NLP model to give us abstract of Research Papers.**
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 💬 Ask me about **How to kill time 😛**
-
-- 📫 How to reach me **abhyadav1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-yadav-754899135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhay-yadav-754899135/" height="30" width="40" /></a>
