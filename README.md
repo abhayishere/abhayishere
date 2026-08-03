@@ -12,7 +12,7 @@ Backend engineer at HDFC Bank — payment microservices (NEFT/IMPS/RTGS/UPI) in 
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) ⭐87k | fix(go): send Gemini system prompts via system_instruction instead of user turn | [#17449](https://github.com/infiniflow/ragflow/pull/17449) | ✅ Merged |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) ⭐87k | fix(go): implement Anthropic streaming (ChatStreamlyWithSender) | [#17380](https://github.com/infiniflow/ragflow/pull/17380) | ✅ Merged |
 
-<sub>Updated 2026-08-02 · [all PRs →](https://github.com/pulls?q=is%3Apr%20author%3Aabhayishere%20-user%3Aabhayishere)</sub>
+<sub>Updated 2026-08-03 · [all PRs →](https://github.com/pulls?q=is%3Apr%20author%3Aabhayishere%20-user%3Aabhayishere)</sub>
 <!-- OSS-STATS:END -->
 
 **Building**
